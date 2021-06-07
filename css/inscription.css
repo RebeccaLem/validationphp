@@ -1,0 +1,27 @@
+.cadreinscription {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top:50px;
+}
+    
+
+label {
+    font-size: 15px;
+    text-transform: lowercase;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+input {
+    background-color: #837b74;
+    border: none;
+}
+
+h2 {
+    margin-top:200px;
+}
+
+.titreinscription {
+    height:10%;
+}
